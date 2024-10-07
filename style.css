@@ -1,0 +1,22 @@
+body{
+background-color: beige;
+  #label1{
+    font-size:17px;
+    font-family:Tahoma;
+    color: rgb(243, 114, 219);
+  }
+
+  #label2{
+    margin-right:0px;
+    margin-left:1300px;
+  }
+  #p1{
+    margin-right: 1270px;
+    margin-top: 0px;
+  }
+  #p2{
+    font-size:17px;
+    font-family:Tahoma;
+    color: rgb(243, 114, 219);
+  }
+}
